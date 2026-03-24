@@ -1,0 +1,3 @@
+.venv
+deploy/.chainlit
+deploy/__pycache__
